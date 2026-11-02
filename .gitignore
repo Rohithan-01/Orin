@@ -1,0 +1,12 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite
+*.log
+.orin/
+contacts*.toml
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
